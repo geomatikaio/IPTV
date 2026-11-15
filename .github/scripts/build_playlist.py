@@ -1,3 +1,4 @@
+import re
 import urllib.request
 from pathlib import Path
 
@@ -11,20 +12,14 @@ COUNTRY_NAMES = {
 }
 
 def add_country_group(entry, country):
-    label = COUNTRY_NAMES[country]
+    # Preserve country as a temporary marker until categories are enriched.
     for index, line in enumerate(entry):
         if line.startswith("#EXTINF:"):
-            match = __import__("re").search(r'\bgroup-title="([^"]*)"', line)
-            category = match.group(1).strip() if match else "Geral"
-            prefix = label + " | "
-            if not category.startswith(prefix):
-                category = prefix + category
-            escaped = category.replace("&", "&amp;").replace('"', "&quot;")
-            if match:
-                line = line[:match.start(1)] + escaped + line[match.end(1):]
+            if re.search(r'\btvg-country="[^"]*"', line):
+                line = re.sub(r'\btvg-country="[^"]*"', 'tvg-country="' + country + '"', line, count=1)
             else:
-                line = __import__("re").sub(r'^(#EXTINF:-?\d+(?:\.\d+)?)(\s*)',
-                                            r'\1 group-title="' + escaped + r'"\2', line, count=1)
+                line = re.sub(r'^(#EXTINF:-?\d+(?:\.\d+)?)(\s*)',
+                              r'\1 tvg-country="' + country + r'"\2', line, count=1)
             entry[index] = line
             break
     return entry
