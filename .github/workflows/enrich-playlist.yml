@@ -34,6 +34,22 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u stream_health.json
-          git commit -m "Refresh and health-check IPTV channels"
-          git push
+          # Rebase the generated outputs on the latest main before publishing.
+          # This avoids non-fast-forward failures if another refresh finished first.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --mixed origin/main
+            git add playlist.m3u stream_health.json
+            if git diff --cached --quiet; then
+              echo "No playlist or health-state changes after syncing with main."
+              exit 0
+            fi
+            git commit -m "Refresh and health-check IPTV channels"
+            if git push origin HEAD:main; then
+              echo "Playlist and health state published successfully."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; retrying against latest main..."
+          done
+          echo "Could not publish after 3 attempts."
+          exit 1
