@@ -1,5 +1,6 @@
 import concurrent.futures
 import json
+import re
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -69,17 +70,36 @@ def probe(url):
     return "ok"
 
 
+# Strictly identify pornographic channels; do not remove general adult-rated
+# programming (for example, Adult Swim or films rated 18+ for violence).
 ADULT_PATTERN = re.compile(
-    r"\\b(adult|xxx|porn|pornography|erotic|erotica|playboy|hustler|brazzers|"
-    r"penthouse|onlyfans|naughty|red.?light)\\b|18\\s*\\+",
+    r"\\b(porn|porno|pornographic|pornhub|xxx|brazzers|hustler\\s*tv|"
+    r"naughty\\s*america|bang\\s*bros|reality\\s*kings|vivid\\s*tv|"
+    r"dorcel|red\\s*light\\s*tv)\\b",
     re.IGNORECASE,
 )
 
 
 def is_adult_entry(entry):
-    # Inspect only channel metadata, never the stream URL, to avoid false positives.
     metadata = " ".join(line for line in entry if line.lstrip().startswith("#"))
     return bool(ADULT_PATTERN.search(metadata))
+
+
+def channel_quality(entry):
+    metadata = entry[0] if entry else ""
+    resolution = re.search(r"(?<!\\d)(\\d{3,4})p\\b", metadata, re.IGNORECASE)
+    return int(resolution.group(1)) if resolution else 0
+
+
+def duplicate_group(entry):
+    metadata = entry[0] if entry else ""
+    tvg_id = re.search(r'tvg-id="([^"]+)"', metadata, re.IGNORECASE)
+    if not tvg_id:
+        return None
+    # Strip only the stream-definition suffix (@SD/@HD), retaining country.
+    identity = re.sub(r"@(SD|HD|FHD|UHD)$", "", tvg_id.group(1), flags=re.IGNORECASE)
+    return identity.lower()
+
 
 
 def parse_entries(lines):
@@ -171,6 +191,29 @@ def main():
             new_state[url] = {"failures": failures}
 
     kept = [e for e in entries if entry_url(e) not in removed_this_run]
+
+    # Within the same country/channel ID, keep the highest-resolution stream
+    # among those that responded successfully. If none responded, do not
+    # deduplicate yet; transient failures must not destroy every alternative.
+    groups = {}
+    for entry in kept:
+        key = duplicate_group(entry)
+        if key:
+            groups.setdefault(key, []).append(entry)
+
+    duplicate_removed = 0
+    for key, candidates in groups.items():
+        if len(candidates) < 2:
+            continue
+        working = [e for e in candidates if results.get(entry_url(e)) == "ok"]
+        if len(working) < 2:
+            continue
+        winner = max(working, key=channel_quality)
+        for entry in working:
+            if entry is not winner:
+                kept.remove(entry)
+                duplicate_removed += 1
+
     output = [header]
     for entry in kept:
         output.extend(entry)
@@ -179,7 +222,8 @@ def main():
 
     removed_now = len(removed_this_run - permanently_removed)
     already_removed = len(permanently_removed)
-    print(f"Adult entries removed: {len(adult_entries)}")
+    print(f"Pornographic entries removed: {len(adult_entries)}")
+    print(f"Lower-quality duplicate streams removed: {duplicate_removed}")
     print(f"Unique URLs tested: {len(urls)}")
     print(f"Responding: {ok}; failed this run: {failed}; HTTP 401/403 removed: {blocked}")
     print(f"Newly removed this run: {removed_now}; already permanently removed: {already_removed}")
