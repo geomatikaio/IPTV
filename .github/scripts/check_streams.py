@@ -69,6 +69,19 @@ def probe(url):
     return "ok"
 
 
+ADULT_PATTERN = re.compile(
+    r"\\b(adult|xxx|porn|pornography|erotic|erotica|playboy|hustler|brazzers|"
+    r"penthouse|onlyfans|naughty|red.?light)\\b|18\\s*\\+",
+    re.IGNORECASE,
+)
+
+
+def is_adult_entry(entry):
+    # Inspect only channel metadata, never the stream URL, to avoid false positives.
+    metadata = " ".join(line for line in entry if line.lstrip().startswith("#"))
+    return bool(ADULT_PATTERN.search(metadata))
+
+
 def parse_entries(lines):
     entries = []
     current = []
@@ -101,12 +114,20 @@ def main():
     if not isinstance(state, dict):
         state = {}
 
+    # Remove channels explicitly identified as adult/XXX in their metadata.
+    adult_entries = [e for e in entries if is_adult_entry(e)]
+    adult_urls = {entry_url(e) for e in adult_entries if entry_url(e)}
+
     # Keep permanent removals across daily rebuilds, so removed URLs do not return.
     permanently_removed = {
         url for url, info in state.items()
         if isinstance(info, dict) and info.get("status") == "removed"
     }
-    eligible_entries = [e for e in entries if entry_url(e) not in permanently_removed]
+    permanently_removed.update(adult_urls)
+    eligible_entries = [
+        e for e in entries
+        if entry_url(e) not in permanently_removed and not is_adult_entry(e)
+    ]
     urls = sorted({entry_url(e) for e in eligible_entries if entry_url(e)})
 
     results = {}
@@ -123,6 +144,8 @@ def main():
         url: info for url, info in state.items()
         if isinstance(info, dict) and info.get("status") == "removed"
     }
+    for url in adult_urls:
+        new_state[url] = {"status": "removed", "reason": "adult_channel"}
     removed_this_run = set(permanently_removed)
     ok = failed = blocked = 0
 
@@ -156,6 +179,7 @@ def main():
 
     removed_now = len(removed_this_run - permanently_removed)
     already_removed = len(permanently_removed)
+    print(f"Adult entries removed: {len(adult_entries)}")
     print(f"Unique URLs tested: {len(urls)}")
     print(f"Responding: {ok}; failed this run: {failed}; HTTP 401/403 removed: {blocked}")
     print(f"Newly removed this run: {removed_now}; already permanently removed: {already_removed}")
