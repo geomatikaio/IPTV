@@ -73,9 +73,9 @@ def probe(url):
 # Strictly identify pornographic channels; do not remove general adult-rated
 # programming (for example, Adult Swim or films rated 18+ for violence).
 ADULT_PATTERN = re.compile(
-    r"\\b(porn|porno|pornographic|pornhub|xxx|brazzers|hustler\\s*tv|"
-    r"naughty\\s*america|bang\\s*bros|reality\\s*kings|vivid\\s*tv|"
-    r"dorcel|red\\s*light\\s*tv)\\b",
+    r"\b(porn|porno|pornographic|pornhub|xxx|brazzers|hustler\s*tv|"
+    r"naughty\s*america|bang\s*bros|reality\s*kings|vivid\s*tv|"
+    r"dorcel|red\s*light\s*tv)\b",
     re.IGNORECASE,
 )
 
@@ -87,7 +87,7 @@ def is_adult_entry(entry):
 
 def channel_quality(entry):
     metadata = entry[0] if entry else ""
-    resolution = re.search(r"(?<!\\d)(\\d{3,4})p\\b", metadata, re.IGNORECASE)
+    resolution = re.search(r"(?<!\d)(\d{3,4})p\b", metadata, re.IGNORECASE)
     return int(resolution.group(1)) if resolution else 0
 
 
