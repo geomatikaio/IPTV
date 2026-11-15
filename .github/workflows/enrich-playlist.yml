@@ -1,4 +1,4 @@
-name: Enrich IPTV playlist metadata
+name: Refresh IPTV playlist
 
 on:
   push:
@@ -11,21 +11,23 @@ permissions:
   contents: write
 
 jobs:
-  enrich:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout playlist
         uses: actions/checkout@v4
+      - name: Rebuild playlist from 12 countries
+        run: python .github/scripts/build_playlist.py
       - name: Enrich logos and categories
         run: python .github/scripts/enrich_playlist.py
       - name: Commit updated playlist
         run: |
           if git diff --quiet -- playlist.m3u; then
-            echo "No metadata changes."
+            echo "No playlist changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add playlist.m3u
-          git commit -m "Update IPTV playlist logos and categories"
+          git commit -m "Refresh IPTV channels and metadata"
           git push
