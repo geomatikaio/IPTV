@@ -20,14 +20,16 @@ jobs:
         run: python .github/scripts/build_playlist.py
       - name: Enrich logos and categories
         run: python .github/scripts/enrich_playlist.py
-      - name: Commit updated playlist
+      - name: Test streams and remove persistently unavailable URLs
+        run: python .github/scripts/check_streams.py
+      - name: Commit updated playlist and health state
         run: |
-          if git diff --quiet -- playlist.m3u; then
-            echo "No playlist changes."
+          if git diff --quiet -- playlist.m3u stream_health.json; then
+            echo "No playlist or health-state changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u
-          git commit -m "Refresh IPTV channels and metadata"
+          git add playlist.m3u stream_health.json
+          git commit -m "Refresh and health-check IPTV channels"
           git push
