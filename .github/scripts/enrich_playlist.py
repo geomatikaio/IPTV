@@ -56,6 +56,23 @@ def main():
                 if names and not re.search(r'\bgroup-title="[^"]*"', line):
                     line = set_attr(line, "group-title", "; ".join(names))
                     category_count += 1
+        if line.startswith("#EXTINF:"):
+            country_match = re.search(r'\btvg-country="([^"]+)"', line)
+            if country_match:
+                country_names = {
+                    "br": "Brasil", "us": "Estados Unidos", "ca": "Canadá",
+                    "mx": "México", "jp": "Japão", "kr": "Coreia do Sul",
+                    "pt": "Portugal", "uk": "Reino Unido", "tr": "Turquia",
+                    "cn": "China", "ru": "Rússia", "es": "Espanha",
+                }
+                country = country_names.get(country_match.group(1), country_match.group(1))
+                group_match = re.search(r'\bgroup-title="([^"]*)"', line)
+                category = group_match.group(1).strip() if group_match else "Geral"
+                prefix = country + " | "
+                if not category.startswith(prefix):
+                    category = prefix + category
+                line = set_attr(line, "group-title", category)
+                line = re.sub(r'\s+tvg-country="[^"]*"', "", line, count=1)
         updated.append(line)
 
     result = "\n".join(updated).rstrip() + "\n"
