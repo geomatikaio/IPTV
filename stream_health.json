@@ -2131,12 +2131,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://103.253.74.210:7070/stream/114/index.m3u8": {
-    "failures": 1
-  },
-  "http://110.153.180.106:55555/out_3/index.m3u8": {
-    "failures": 1
-  },
   "http://1.24.190.98:10080/hls/39/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -2321,9 +2315,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a": {
-    "failures": 1
-  },
   "http://117.156.28.119/270000001111/1110000152/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -2384,15 +2375,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://138.121.15.230:9002/HISTORY-2/index.m3u8": {
-    "failures": 1
-  },
   "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://138.121.15.230:9002/USA/index.m3u8": {
-    "failures": 1
   },
   "http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8": {
     "status": "removed",
@@ -2417,9 +2402,6 @@
   "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://158.69.24.53:8080/probashi_tv/index.m3u8": {
-    "failures": 1
   },
   "http://119.39.242.52:1935/live/zonghe/playlist.m3u8": {
     "status": "removed",
@@ -2505,9 +2487,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://170.83.16.50/BAND_SPORTS/index.m3u8": {
-    "failures": 1
-  },
   "http://15.204.146.163:8002/play/a00g/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -2519,9 +2498,6 @@
   "http://158.160.149.81:8080/269/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://170.83.16.50/FUTURA/index.m3u8": {
-    "failures": 1
   },
   "http://168.196.127.137:6001/play/a04y/index.m3u8": {
     "status": "removed",
@@ -2559,28 +2535,13 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://176.118.197.101/KinoTvHD/playlist.m3u8": {
-    "failures": 1
-  },
   "http://176.118.197.101/TNT4/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://178.134.1.158:8081/red/index.m3u8": {
-    "failures": 1
-  },
-  "http://178.134.1.158:8081/BRIDGE/index.m3u8": {
-    "failures": 1
-  },
   "http://178.76.68.60:7442/50/mpegts": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://176.118.197.101/RossiyaHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://178.134.1.158:8081/vkus/index.m3u8": {
-    "failures": 1
   },
   "http://168.196.127.137:6001/play/a08n/index.m3u8": {
     "status": "removed",
@@ -2621,9 +2582,6 @@
   "http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://181.78.8.199:8000/play/a0cu/index.m3u8": {
-    "failures": 1
   },
   "http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8": {
     "status": "removed",
@@ -2781,18 +2739,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://185.23.80.23:8080/REN/index.m3u8": {
-    "failures": 1
-  },
   "http://183.207.248.71/gitv/live1/G_YUNNAN/G_YUNNAN": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://186.219.52.187/ratimbum/index.m3u8": {
-    "failures": 1
-  },
-  "http://186.219.52.187/tv_brasil/index.m3u8": {
-    "failures": 1
   },
   "http://190.128.214.97:64333/play/a006/index.m3u8": {
     "status": "removed",
@@ -2874,24 +2823,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://190.93.224.42/AXN/index.m3u8": {
-    "failures": 1
-  },
-  "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8": {
-    "failures": 1
-  },
-  "http://190.93.224.42/FX/index.m3u8": {
-    "failures": 2
-  },
-  "http://190.93.224.42/NAT-GEO/index.m3u8": {
-    "failures": 1
-  },
   "http://192.151.150.154/live/cctv8k.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8": {
-    "failures": 1
   },
   "http://185.234.111.229:8000/play/a05u": {
     "status": "removed",
@@ -2984,9 +2918,6 @@
   "http://190.83.2.182:8090/ESPN/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://217.114.191.150/Solnce/index.m3u8": {
-    "failures": 1
   },
   "http://190.83.2.182:8090/ESPN3/index.m3u8": {
     "status": "removed",
@@ -3412,9 +3343,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://31.148.5.241/kanal_3/index.m3u8": {
-    "failures": 1
-  },
   "http://37.49.224.5/stream/4/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -3690,9 +3618,6 @@
   "http://45.186.254.75:8000/play/a0en/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://45.186.240.164:9000/stream/54/index.m3u8": {
-    "failures": 1
   },
   "http://45.189.151.7:8000/play/a05s": {
     "status": "removed",
@@ -4013,9 +3938,6 @@
   "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8": {
-    "failures": 1
   },
   "http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8": {
     "status": "removed",
@@ -4369,9 +4291,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8": {
-    "failures": 1
-  },
   "http://live.dxhmt.cn:9081/tv/10184-1.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -4460,12 +4379,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://stream.mcquack.net/106/index.m3u8": {
-    "failures": 2
-  },
-  "http://stream.mcquack.net/101/index.m3u8": {
-    "failures": 1
-  },
   "http://stream.mcquack.net/108/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
@@ -4473,9 +4386,6 @@
   "http://stream.mcquack.net/114/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://stream.mcquack.net/116/index.m3u8": {
-    "failures": 1
   },
   "http://stream.mcquack.net/118/index.m3u8": {
     "status": "removed",
@@ -4489,22 +4399,13 @@
     "status": "removed",
     "reason": "http_401_403"
   },
-  "http://stream.mcquack.net/136/index.m3u8": {
-    "failures": 2
-  },
   "http://stream.mcquack.net/138/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
   },
-  "http://stream.mcquack.net/155/index.m3u8": {
-    "failures": 1
-  },
   "http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://stream.mcquack.net/162/index.m3u8": {
-    "failures": 1
   },
   "http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8": {
     "status": "removed",
@@ -4530,15 +4431,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://stream.mcquack.net/183/index.m3u8": {
-    "failures": 1
-  },
   "http://stream.mcquack.net/182/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
-  },
-  "http://stream.mcquack.net/184/index.m3u8": {
-    "failures": 1
   },
   "http://stream.mcquack.net/180/index.m3u8": {
     "status": "removed",
@@ -4548,15 +4443,6 @@
     "status": "removed",
     "reason": "http_401_403"
   },
-  "http://stream.mcquack.net/194/index.m3u8": {
-    "failures": 1
-  },
-  "http://stream.mcquack.net/197/index.m3u8": {
-    "failures": 1
-  },
-  "http://stream.mcquack.net/200/index.m3u8": {
-    "failures": 2
-  },
   "http://stream.mcquack.net/202/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
@@ -4565,18 +4451,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://stream.mcquack.net/201/index.m3u8": {
-    "failures": 1
-  },
-  "http://stream.mcquack.net/206/index.m3u8": {
-    "failures": 1
-  },
-  "http://stream.mcquack.net/207/index.m3u8": {
-    "failures": 2
-  },
-  "http://stream.mcquack.net/220/index.m3u8": {
-    "failures": 1
-  },
   "http://stream.mcquack.net/221/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -4584,9 +4458,6 @@
   "http://stream.mcquack.net/198/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
-  },
-  "http://stream.mcquack.net/227/index.m3u8": {
-    "failures": 1
   },
   "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8": {
     "status": "removed",
@@ -4600,9 +4471,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://stream.mcquack.net/237/index.m3u8": {
-    "failures": 1
-  },
   "http://stream.mcquack.net/238/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
@@ -4615,21 +4483,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://stream.mcquack.net/265/index.m3u8": {
-    "failures": 1
-  },
   "http://stream.mcquack.net/279/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://stream.mcquack.net/301/index.m3u8": {
-    "failures": 1
-  },
-  "http://stream.mcquack.net/312/index.m3u8": {
-    "failures": 1
-  },
-  "http://stream.mcquack.net/320/index.m3u8": {
-    "failures": 2
   },
   "http://stream.mcquack.net/362/index.m3u8": {
     "status": "removed",
@@ -4643,9 +4499,6 @@
     "status": "removed",
     "reason": "http_401_403"
   },
-  "http://stream.mcquack.net/361/index.m3u8": {
-    "failures": 2
-  },
   "http://stream.mcquack.net/406/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -4658,9 +4511,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://stream.mcquack.net/420/index.m3u8": {
-    "failures": 1
-  },
   "http://stream.mcquack.net/443/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -4668,9 +4518,6 @@
   "http://stream.mcquack.net/75/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://stream.mcquack.net/60/index.m3u8": {
-    "failures": 2
   },
   "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8": {
     "status": "removed",
@@ -4688,21 +4535,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8": {
-    "failures": 1
-  },
   "http://stream.mcquack.net/69/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
-  },
-  "http://stream.mcquack.net/421/index.m3u8": {
-    "failures": 2
-  },
-  "http://stream.mcquack.net/76/index.m3u8": {
-    "failures": 1
-  },
-  "http://stream.mcquack.net/82/index.m3u8": {
-    "failures": 2
   },
   "http://stream.mcquack.net/83/index.m3u8": {
     "status": "removed",
@@ -5112,9 +4947,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8": {
-    "failures": 1
-  },
   "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -5138,9 +4970,6 @@
   "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8": {
-    "failures": 1
   },
   "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8": {
     "status": "removed",
@@ -5209,9 +5038,6 @@
   "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8": {
-    "failures": 1
   },
   "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8": {
     "status": "removed",
@@ -5301,9 +5127,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8": {
-    "failures": 1
-  },
   "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -5315,9 +5138,6 @@
   "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8": {
-    "failures": 1
   },
   "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8": {
     "status": "removed",
@@ -5358,9 +5178,6 @@
   "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8": {
-    "failures": 1
   },
   "https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8": {
     "status": "removed",
@@ -5442,18 +5259,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://cdn-dvr.ntv.ru/Balabol/index.m3u8": {
-    "failures": 1
-  },
-  "https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8": {
-    "failures": 1
-  },
   "https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8": {
-    "failures": 1
   },
   "https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1": {
     "status": "removed",
@@ -5470,9 +5278,6 @@
   "https://cdn.fastocloud.com/leonel.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://cdn-dvr.ntv.ru/Pes/index.m3u8": {
-    "failures": 1
   },
   "http://ivi.bupt.edu.cn/hls/btv5.m3u8": {
     "status": "removed",
@@ -5494,21 +5299,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8": {
-    "failures": 1
-  },
-  "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8": {
-    "failures": 1
-  },
-  "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8": {
-    "failures": 1
-  },
   "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8": {
-    "failures": 2
   },
   "https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8": {
     "status": "removed",
@@ -5518,21 +5311,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8": {
-    "failures": 2
-  },
   "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8": {
-    "failures": 1
   },
   "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8": {
     "status": "removed",
@@ -5566,9 +5347,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8": {
-    "failures": 1
-  },
   "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -5576,9 +5354,6 @@
   "https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8": {
-    "failures": 2
   },
   "https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd": {
     "status": "removed",
@@ -5860,9 +5635,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://eu1.servers10.com:8081/8166/index.m3u8": {
-    "failures": 1
-  },
   "https://fnx.lls.pbs.org/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -5878,12 +5650,6 @@
   "https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8": {
-    "failures": 1
   },
   "https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv": {
     "status": "removed",
@@ -5905,12 +5671,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv": {
-    "failures": 1
-  },
-  "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv": {
-    "failures": 1
-  },
   "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -5919,22 +5679,13 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8": {
-    "failures": 1
-  },
   "https://freem3u.xyz/api/live/play.m3u8?vid=99": {
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://freem3u.xyz/api/live/play.m3u8?vid=111": {
-    "failures": 1
-  },
   "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8": {
-    "failures": 1
   },
   "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8": {
     "status": "removed",
@@ -5967,9 +5718,6 @@
   "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://iptv.tapesh.tv/tapesh/playlist.m3u8": {
-    "failures": 1
   },
   "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8": {
     "status": "removed",
@@ -6043,9 +5791,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://isaocorp.cloudecast.com/playtv/index.m3u8": {
-    "failures": 1
-  },
   "https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -6078,15 +5823,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://live-3.otcnet.ru/congresstv/index.m3u8": {
-    "failures": 1
-  },
   "https://live-3.otcnet.ru/GulliGirl/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://live-3.otcnet.ru/sportivny/index.m3u8": {
-    "failures": 1
   },
   "https://live-3.otcnet.ru/Tiji/index.m3u8": {
     "status": "removed",
@@ -6224,9 +5963,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8": {
-    "failures": 1
-  },
   "https://live.sjsrm.com/bjsjs/sd/live.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -6291,18 +6027,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8": {
-    "failures": 1
-  },
   "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8": {
-    "failures": 1
   },
   "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8": {
     "status": "removed",
@@ -6343,9 +6070,6 @@
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8": {
-    "failures": 1
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https": {
     "status": "removed",
@@ -6407,15 +6131,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8": {
-    "failures": 1
-  },
   "https://play.mbcbrasil.tv.br/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8": {
-    "failures": 1
   },
   "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8": {
     "status": "removed",
@@ -6448,9 +6166,6 @@
   "https://rezofoot.tv/Tennis/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8": {
-    "failures": 2
   },
   "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8": {
     "status": "removed",
@@ -6495,9 +6210,6 @@
   "https://secure3.todostreaming.es/live/imastv-livestream.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8": {
-    "failures": 1
   },
   "https://sevas.1tvcrimea.ru/legendarniy24.m3u8": {
     "status": "removed",
@@ -6691,9 +6403,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8": {
-    "failures": 1
-  },
   "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -6701,9 +6410,6 @@
   "https://stream3.camara.gov.br/tv2/manifest.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8": {
-    "failures": 1
   },
   "https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8": {
     "status": "removed",
@@ -6728,9 +6434,6 @@
   "https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8": {
-    "failures": 1
   },
   "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8": {
     "status": "removed",
@@ -6788,9 +6491,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://streaming.onnethn.com/MTV/playlist.m3u8": {
-    "failures": 2
-  },
   "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -6831,9 +6531,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8": {
-    "failures": 1
-  },
   "https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -6841,9 +6538,6 @@
   "https://tele1-live.ercdn.net/tele1/tele1.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://toy.vcdn.fyi/placid/index.m3u8": {
-    "failures": 1
   },
   "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8": {
     "status": "removed",
@@ -6857,9 +6551,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8": {
-    "failures": 1
-  },
   "https://tv-trt3.live.trt.com.tr/master.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -6867,9 +6558,6 @@
   "https://tv.laboralsst.com.br/hls/stream.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8": {
-    "failures": 1
   },
   "https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8": {
     "status": "removed",
@@ -6891,55 +6579,25 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8": {
-    "failures": 1
-  },
   "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8": {
-    "failures": 1
   },
   "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://tvnow.hostless.app/comedy-central.m3u8": {
-    "failures": 2
-  },
-  "https://tvnow.hostless.app/disney-junior.m3u8": {
-    "failures": 2
-  },
-  "https://tvnow.hostless.app/cartoon-network.m3u8": {
-    "failures": 2
-  },
-  "https://tvnow.hostless.app/nick-jr.m3u8": {
-    "failures": 2
-  },
   "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://tvnow.hostless.app/nickelodeon.m3u8": {
-    "failures": 2
   },
   "https://tvorb.net/ZTV/6918-live.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://tvnow.hostless.app/nicktoons.m3u8": {
-    "failures": 2
-  },
   "https://tv-e-okul02.medya.trt.com.tr/master.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://tvnow.hostless.app/disney-xd.m3u8": {
-    "failures": 2
-  },
-  "https://tvnow.hostless.app/disney-channel.m3u8": {
-    "failures": 2
   },
   "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8": {
     "status": "removed",
@@ -6957,30 +6615,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://tvsen5.aynaott.com/willowhd/index.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/beinsports/index.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/bloombergtv/index.m3u8": {
-    "failures": 1
-  },
   "https://tvwarehouse.r.worldssl.net/mystream.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://tvsen6.aynaott.com/cp24/index.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/foxbusiness/index.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/golfchannel/index.m3u8": {
-    "failures": 1
   },
   "https://tvsen7.aynascope.net/foxsports2/index.m3u8": {
     "status": "removed",
@@ -6993,15 +6630,6 @@
   "https://tvsen7.aynascope.net/nicktoons/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://tvsen6.aynaott.com/msnbc/index.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/nfl/index.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/ytv/index.m3u8": {
-    "failures": 2
   },
   "https://urbanrevolution.es:8443/live/TV/playlist.m3u8": {
     "status": "removed",
@@ -7063,18 +6691,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/foxnews/index.m3u8": {
-    "failures": 1
-  },
   "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://tvsen6.aynaott.com/talkSPORT/index.m3u8": {
-    "failures": 1
   },
   "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8": {
     "status": "removed",
@@ -7116,18 +6735,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8": {
-    "failures": 1
-  },
   "https://tbilbo.dyndns.org/hls/stream.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://vod.tuva.ru/nauka2/index.m3u8": {
-    "failures": 1
-  },
-  "https://vod.tuva.ru/rusroman/index.m3u8": {
-    "failures": 1
   },
   "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8": {
     "status": "removed",
@@ -7148,9 +6758,6 @@
   "https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8": {
-    "failures": 1
   },
   "https://world.lls.pbs.org/index.m3u8": {
     "status": "removed",
@@ -7204,9 +6811,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8": {
-    "failures": 1
-  },
   "https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -7223,18 +6827,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8": {
-    "failures": 1
-  },
   "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "https://xykt-fix.github.io/Y77.m3u8": {
-    "failures": 2
-  },
-  "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8": {
-    "failures": 1
   },
   "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8": {
     "status": "removed",
@@ -7255,5 +6850,526 @@
   "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
+  },
+  "http://170.83.16.50/REDE_TV/index.m3u8": {
+    "failures": 1
+  },
+  "http://170.83.49.66:8083/CANALRURALHD/index.m3u8": {
+    "failures": 1
+  },
+  "http://170.83.49.66:8083/REDECNTHD/index.m3u8": {
+    "failures": 1
+  },
+  "http://110.153.180.106:55555/out_2/index.m3u8": {
+    "failures": 1
+  },
+  "http://176.118.197.101/Retro/index.m3u8": {
+    "failures": 1
+  },
+  "http://178.134.1.158:8081/red/index.m3u8": {
+    "failures": 2
+  },
+  "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8": {
+    "failures": 1
+  },
+  "http://178.134.1.158:8081/babytime/index.m3u8": {
+    "failures": 1
+  },
+  "http://185.23.80.23:8080/TVBRICS/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/agro_canal/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/canal_do_boi/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/rede_familia/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/rede_vida/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/sesc_tv/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/tv_brasil/index.m3u8": {
+    "failures": 2
+  },
+  "http://190.60.46.156:8089/TELEMUNDO/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/zoomoo/index.m3u8": {
+    "failures": 1
+  },
+  "http://200.115.120.1:8000/play/ca048/index.m3u8": {
+    "failures": 1
+  },
+  "http://190.93.224.42/TELEMUNDO/index.m3u8": {
+    "failures": 1
+  },
+  "http://170.83.16.50/ARTE_1/index.m3u8": {
+    "failures": 1
+  },
+  "http://217.114.191.150/Solnce/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.16.50/BAND_SPORTS/index.m3u8": {
+    "failures": 2
+  },
+  "http://31.131.141.195:8000/play/a006/index.m3u8": {
+    "failures": 1
+  },
+  "http://31.148.5.241/kanal_15/index.m3u8": {
+    "failures": 1
+  },
+  "http://45.186.240.164:9000/stream/54/index.m3u8": {
+    "failures": 2
+  },
+  "http://185.228.163.146:8000/play/a01y/index.m3u8": {
+    "failures": 1
+  },
+  "http://90.163.85.113:8093/stream/26/index.m3u8": {
+    "failures": 1
+  },
+  "http://90.163.85.113:8093/stream/51/index.m3u8": {
+    "failures": 1
+  },
+  "http://catchup.videoline.ru/shanson/index.m3u8": {
+    "failures": 1
+  },
+  "http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/101/index.m3u8": {
+    "failures": 2
+  },
+  "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/107/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/111/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/116/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/128/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/129/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/133/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/135/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/136/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://stream.mcquack.net/144/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/152/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/155/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/154/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/178/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/167/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/171/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/177/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/162/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/163/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/168/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/216/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/208/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/194/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/207/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/201/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/200/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://stream.mcquack.net/197/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/209/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/220/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/237/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/227/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/278/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/265/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/269/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/301/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/242/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/312/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/311/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/385/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/82/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/60/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://stream.mcquack.net/458/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/420/index.m3u8": {
+    "failures": 2
+  },
+  "http://stream.mcquack.net/369/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/81/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "http://stream.mcquack.net/306/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/80/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/419/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/317/index.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/79/index.m3u8": {
+    "failures": 1
+  },
+  "http://api.toonamiaftermath.com:3000/est/playlist.m3u8": {
+    "failures": 1
+  },
+  "http://stream.mcquack.net/85/index.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8": {
+    "failures": 1
+  },
+  "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8": {
+    "failures": 1
+  },
+  "http://tshift-1.telecoma.tv/enisei/index.m3u8": {
+    "failures": 1
+  },
+  "http://tv.tuva.ru/machtv/index.m3u8": {
+    "failures": 1
+  },
+  "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8": {
+    "failures": 1
+  },
+  "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://canli.tgrthaber.com/tgrt.m3u8": {
+    "failures": 1
+  },
+  "https://br.conectmy.com.br/DespertarTV/index.m3u8": {
+    "failures": 1
+  },
+  "https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8": {
+    "failures": 2
+  },
+  "https://cdn-dvr.ntv.ru/Balabol/index.m3u8": {
+    "failures": 2
+  },
+  "https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8": {
+    "failures": 2
+  },
+  "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8": {
+    "failures": 2
+  },
+  "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8": {
+    "failures": 1
+  },
+  "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8": {
+    "failures": 2
+  },
+  "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://iptv.tapesh.tv/tapesh/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8": {
+    "failures": 1
+  },
+  "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007": {
+    "failures": 1
+  },
+  "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8": {
+    "failures": 1
+  },
+  "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8": {
+    "failures": 1
+  },
+  "https://live-3.otcnet.ru/congresstv/index.m3u8": {
+    "failures": 2
+  },
+  "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8": {
+    "failures": 1
+  },
+  "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8": {
+    "failures": 1
+  },
+  "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8": {
+    "failures": 2
+  },
+  "https://ntd02.akamaized.net/HD-LA/index.m3u8": {
+    "failures": 1
+  },
+  "https://ntd02.akamaized.net/NTD-UK/index.m3u8": {
+    "failures": 1
+  },
+  "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8": {
+    "failures": 1
+  },
+  "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8": {
+    "failures": 2
+  },
+  "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8": {
+    "failures": 1
+  },
+  "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "https://streaming.onnethn.com/CINEMAX/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://streaming.onnethn.com/HTV/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://streaming.onnethn.com/AMC/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://streaming.onnethn.com/HGTV/index.m3u8": {
+    "failures": 1
+  },
+  "https://streaming.onnethn.com/HBO/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8": {
+    "status": "removed",
+    "reason": "http_401_403"
+  },
+  "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8": {
+    "failures": 2
+  },
+  "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://tv-trt1.medya.trt.com.tr/master.m3u8": {
+    "failures": 1
+  },
+  "https://tv-trtturk.medya.trt.com.tr/master.m3u8": {
+    "failures": 1
+  },
+  "https://tvnow.hostless.app/disney-channel.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvnow.hostless.app/comedy-central.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvnow.hostless.app/nickelodeon.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvnow.hostless.app/nick-jr.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvnow.hostless.app/disney-xd.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvnow.hostless.app/disney-junior.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvnow.hostless.app/nicktoons.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8": {
+    "failures": 1
+  },
+  "https://tvnow.hostless.app/cartoon-network.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8": {
+    "failures": 1
+  },
+  "https://thefirst-oando.amagi.tv/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://yayin30.haber100.com/live/finansturk/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://vod.tuva.ru/kinotv/index.m3u8": {
+    "failures": 1
   }
 }
