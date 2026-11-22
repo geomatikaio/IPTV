@@ -20,6 +20,8 @@ http://170.83.16.50/ARTE_1/index.m3u8
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Brasil | Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-id="AXN.br@SD",AXN (720p)
 http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 group-title="Brasil | Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-id="AXN.br@SD",AXN (720p)
+http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 group-title="Brasil | Sports" tvg-logo="https://i.imgur.com/EuPvzJe.png" tvg-id="BandSports.br@SD",Band Sports (720p)
 http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Brasil | News" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" tvg-id="BandNews.br@SD",BandNews (720p)
@@ -239,6 +241,8 @@ http://45.185.15.154:9080/stream/28/index.m3u8
 http://45.185.15.154:9080/stream/29/index.m3u8
 #EXTINF:-1 group-title="Brasil | Outdoor" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-id="TerraViva.br@SD",Terra Viva (720p)
 http://170.83.16.50/TERRA_VIVA/index.m3u8
+#EXTINF:-1 group-title="Brasil | Outdoor" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-id="TerraViva.br@SD",Terra Viva (720p)
+http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
 #EXTINF:-1 group-title="Brasil | News" tvg-logo="https://i.ibb.co/yTZgcyQ/timesbr.jpg" tvg-id="TimesBrasil.br@SD",Times Brasil (720p)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 group-title="Brasil | Travel" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-id="TravelBoxBrazil.br@SD",Travel Box Brazil (720p)
@@ -256,8 +260,6 @@ http://170.83.16.50/TV_APARECIDA/index.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 group-title="Brasil | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" tvg-id="TVBrasil.br@SD",TV Brasil (720p)
 http://170.83.49.66:8083/TVBRASILHD/index.m3u8
-#EXTINF:-1 group-title="Brasil | Legislative" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-id="TVCamara.br@SD",TV Camara (720p)
-http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 group-title="Brasil | Legislative" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-id="TVCamara.br@SD",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Brasil | Geral" tvg-logo="https://i.imgur.com/OaM9hkH.png" tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
@@ -365,6 +367,8 @@ https://edge.enhdtv.com/8150/index.m3u8
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-id="AELatinAmerica.us@Panregional",A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-id="AELatinAmerica.us@Panregional",A&E Latin America (1080p)
+http://190.93.224.42/AYE/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-id="AELatinAmerica.us@Brazil",A&E Latin America Brazil (720p)
 http://79.127.238.228:14551
 #EXTINF:-1 group-title="Estados Unidos | Religious" tvg-logo="https://i.imgur.com/QznvBD7.png" tvg-id="ABHPTV.us@HD",ABHP TV (480p)
@@ -449,8 +453,6 @@ http://138.121.15.230:9002/AMC/index.m3u8
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Series" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-id="AMCSeriesLatinAmerica.us@Panregional",AMC Series Latin America (1080p)
 http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1 group-title="Estados Unidos | Series" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-id="AMCSeriesLatinAmerica.us@Panregional",AMC Series Latin America (1080p)
-https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png" tvg-id="AmericanHeroesChannel.us@SD",American Heroes Channel (720p)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Movies" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
@@ -559,6 +561,8 @@ https://bloomberg.com/media-manifest/streams/qt.m3u8
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Business" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTV.us@US",Bloomberg TV (720p)
 https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | Business" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTV.us@US",Bloomberg TV (576p)
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Business" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTV.us@Plus",Bloomberg TV + (2160p)
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Business" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTV.us@LiveEvent",Bloomberg TV US Live Event (720p)
@@ -677,6 +681,8 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="CNNInternational.us@Europe",CNN International (1080p)
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="CNNInternational.us@Europe",CNN International (576p)
+http://116.90.120.149:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="CNNInternational.us@LatinAmerica",CNN International Latin America (1080p)
 http://168.228.44.241:9997/play/a073/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="CNNInternational.us@NorthAmerica",CNN International North America (1080p)
@@ -817,6 +823,8 @@ http://38.87.224.19:2220/play/a03u/index.m3u8
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (576p)
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (480p)
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" tvg-id="FoxNewsChannel.us@SD",Fox News Channel (1080p)
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" tvg-id="FoxNewsRadio.us@SD",Fox News Radio (720p)
@@ -906,6 +914,8 @@ http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-id="HGTVLatinAmerica.us@Panregional",HGTV Latin America (1080p)
 http://38.87.224.19:2220/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-id="HGTVLatinAmerica.us@Panregional",HGTV Latin America (720p)
+https://streaming.onnethn.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Music" tvg-logo="https://i.imgur.com/zhCgoru.png" tvg-id="HighVisionTV.us@SD",High Vision (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://i.imgur.com/VTcdAJj.jpeg" tvg-id="HisGloryTV.us@SD",His Glory TV (1080p)
@@ -932,8 +942,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Music" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-id="HTV.us@SD",HTV (720p)
 http://45.171.64.30:6060/play/a012/index.m3u8
-#EXTINF:-1 group-title="Estados Unidos | Music" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-id="HTV.us@SD",HTV (720p)
-https://streaming.onnethn.com/HTV/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Music" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-id="HTV.us@Argentina",HTV Argentina (720p)
 http://45.134.141.161:2200/ARG/HTV/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Movies" tvg-logo="https://i.imgur.com/bQdkyF9.png" tvg-id="IFC.us@East",IFC (1080p)
@@ -1107,8 +1115,6 @@ https://tvsen6.aynaott.com/msnbc/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (1080p)
 https://streaming.onnethn.com/MTV/playlist.m3u8
-#EXTINF:-1 group-title="Estados Unidos | Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America
-http://181.78.79.131:8000/play/a0nc
 #EXTINF:-1 group-title="Estados Unidos | Music" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-id="MTVLive.us@SD",MTV Live (720p)
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Religious" tvg-id="MuslimNetworkTV.us@SD",Muslim Network TV
@@ -1157,8 +1163,6 @@ https://tvsen6.aynaott.com/nfl/index.m3u8
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Kids" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
-#EXTINF:-1 group-title="Estados Unidos | Kids" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
-http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-id="Nicktoons.us@East",Nicktoons (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Series" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="Novelisima.us@SD",Novelisima (1080p)
@@ -1187,12 +1191,12 @@ https://live.ntdtv.com/cwlive220/playlist.m3u8
 https://live.ntdtv.com/cnlive900/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News; General" tvg-logo="https://i.imgur.com/OePd5AF.png" tvg-id="NTDTVEnglish.us@USA",NTD TV English (1080p)
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
-#EXTINF:-1 group-title="Estados Unidos | News; General" tvg-logo="https://i.imgur.com/OePd5AF.png" tvg-id="NTDTVEnglish.us@USA",NTD TV English (720p)
-https://ntd02.akamaized.net/NTDA/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News; General" tvg-logo="https://i.imgur.com/OePd5AF.png" tvg-id="NTDTVEnglish.us@UK",NTD TV English UK (1080p)
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/KCNS_logo.png" tvg-id="NTDTV.us@West",NTD TV West (720p)
 https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/KCNS_logo.png" tvg-id="NTDTV.us@West",NTD TV West
+https://live.ntdtv.com/uwlive990/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://i.imgur.com/0xW69iu.png" tvg-id="OANPlus.us@SD",OAN Plus (720p)
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" tvg-id="OneAmericaNewsNetwork.us@SD",One America News Network (720p)
@@ -1203,8 +1207,6 @@ https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Outdoor" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-id="OutdoorChannel.us@Vietnam",Outdoor Channel Vietnam (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=216
-#EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://i.imgur.com/ZA44lxn.png" tvg-id="OvercomersTV.us@SD",Overcomers TV (720p)
-https://rumble.com/live-hls/79qjh2/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png" tvg-id="OWN.us@East",OWN (720p)
 http://23.237.104.106:8080/USA_OWN/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Series; Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.us@East",Paramount Network (1080p)
@@ -1281,6 +1283,8 @@ https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://i.imgur.com/pBBb0wx.png" tvg-id="RVTV.us@HD",RVTV (1080p)
 https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://i.imgur.com/pBBb0wx.png" tvg-id="RVTV.us@HD",RVTV (1080p)
+https://rvtv-orka.b-cdn.net/RVTV-ORKA/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://i.imgur.com/cTLhQjo.png" tvg-id="RVTVCivic.us@SD",RVTV Civic (720p)
 https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://i.imgur.com/Vpv0P6t.png" tvg-id="RVTVGrantsPass.us@SD",RVTV Grants Pass (720p)
@@ -1327,8 +1331,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_cha
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 #EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-id="SonyChannelAndes.us@SD",Sony Channel Andes (1080p)
 http://190.93.224.42/SONY-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Music; Religious" tvg-logo="https://i.imgur.com/yCp6vXz.png" tvg-id="SpiritTV.us@SD",Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Movies" tvg-logo="https://i.imgur.com/XD1Tpet.png" tvg-id="StarAction.us@SD",Star Action (720p)
@@ -1351,6 +1353,8 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
 http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-id="StudioUniversalLatinAmerica.us@Brazil",Studio Universal Latin America Brazil (720p)
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-id="StudioUniversalLatinAmerica.us@Colombia",Studio Universal Latin America Colombia (1080p)
@@ -1391,6 +1395,8 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
 http://45.173.231.22:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://190.93.224.42/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-id="TelemundoInternacional.us@CentralAmerica",Telemundo Internacional Central America (1080p)
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | General" tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" tvg-id="Telemundo.us@West",Telemundo West (720p)
@@ -1477,7 +1483,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Animation; Kids" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-id="Tooncast.us@Argentina",Tooncast Argentina (720p)
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Animation; Kids" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-id="Tooncast.us@Brazil",Tooncast Brazil (720p)
-http://170.83.16.50:80/TOONCAST/index.m3u8
+http://170.83.16.50/TOONCAST/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Animation; Kids" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-id="Tooncast.us@SouthAmerica",Tooncast SouthAmerica (480p)
 http://190.61.42.218:9000/play/a06i/index.m3u8
 #EXTINF:-1 group-title="Estados Unidos | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" tvg-id="truTV.us@East",truTV (720p)
@@ -1844,6 +1850,8 @@ https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 group-title="México | Music" tvg-logo="https://i.imgur.com/4DfnOTA.png" tvg-id="Bandamax.mx@SD",Bandamax (1080p)
 http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 group-title="México | Music" tvg-logo="https://i.imgur.com/4DfnOTA.png" tvg-id="Bandamax.mx@SD",Bandamax (1080p)
+https://streaming.onnethn.com/Bandamax/index.m3u8
 #EXTINF:-1 group-title="México | General" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" tvg-id="Canal5TVCozumel.mx@SD",Canal 5 TV Cozumel (1080p)
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 #EXTINF:-1 group-title="México | General" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx@XETTDT",Canal 5 XET-TDT (1080p)
@@ -1882,6 +1890,8 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://stream.crealatv.com/live.m3u8
 #EXTINF:-1 group-title="México | Movies" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+#EXTINF:-1 group-title="México | Movies" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (720p)
+http://181.224.200.5:2277/play/a0d1/index.m3u8
 #EXTINF:-1 group-title="México | Movies" tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-id="DePeliculaPlus.mx@SD",De Pelicula Plus (1080p)
 http://200.115.120.1:8000/play/ca030/index.m3u8
 #EXTINF:-1 group-title="México | Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South",Discovery Home & Health Latin America South
@@ -1898,8 +1908,12 @@ https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 group-title="México | Geral" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-id="Golden.mx@Panregional",Golden (1080p)
 http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+#EXTINF:-1 group-title="México | Geral" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-id="Golden.mx@Panregional",Golden (1080p)
+http://181.224.200.5:2277/play/a0do/index.m3u8
 #EXTINF:-1 group-title="México | Geral" tvg-logo="https://i.imgur.com/SlSbcp3.png" tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
 http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 group-title="México | Geral" tvg-logo="https://i.imgur.com/SlSbcp3.png" tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://181.224.200.5:2277/play/a0bd/index.m3u8
 #EXTINF:-1 group-title="México | Geral" tvg-logo="https://i.imgur.com/OOEkyM2.png" tvg-id="GoldenPlus.mx@SD",Golden Plus (1080p)
 http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="México | Movies" tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-id="GoldenPremier.mx@SD",Golden Premier (1080p)
@@ -1969,8 +1983,6 @@ https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 group-title="México | Music" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-id="TeleHit.mx@SD",TeleHit (1080p)
 http://186.148.196.100:8000/play/a01s
-#EXTINF:-1 group-title="México | Music" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-id="TeleHit.mx@SD",TeleHit (1080p)
-http://190.61.47.54:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="México | Geral" tvg-logo="https://i.imgur.com/klhTyDU.png" tvg-id="Telemax.mx@XEWHTDT",Telemax (XEWH-TDT) (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="México | Entertainment" tvg-logo="https://i.imgur.com/MeV5N08.png" tvg-id="TeleplaySureste.mx@SD",Teleplay Sureste (720p)
@@ -2038,6 +2050,8 @@ http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 group-title="Japão | News; Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
 https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 group-title="Japão | News; Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 group-title="Japão | Shop" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVC.jp@SD",QVC (1080p)
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 #EXTINF:-1 group-title="Japão | General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg" tvg-id="SakuranboTV.jp@JOCYDTV",Sakuranbo TV (1080i)
@@ -2056,8 +2070,6 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Coreia do Sul | News; General" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-id="ArirangTV.kr@SD",Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Coreia do Sul | News; General" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-id="ArirangTV.kr@HD",Arirang TV HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 group-title="Coreia do Sul | News" tvg-logo="https://i.imgur.com/Jdy3WNm.png" tvg-id="ArirangUN.kr@SD",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Coreia do Sul | Religious" tvg-logo="https://i.imgur.com/01UmXRe.png" tvg-id="BBSTV.kr@SD",BBS Buddhist Broadcasting (1080p)
@@ -2340,8 +2352,6 @@ https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Reino Unido | Religious" tvg-logo="https://i.imgur.com/oxdM3gm.png" tvg-id="GODTV.uk@SD",GOD TV (576p)
 https://cdn.pishow.tv/ott/live/1391/master.m3u8
-#EXTINF:-1 group-title="Reino Unido | Religious" tvg-logo="https://i.imgur.com/oxdM3gm.png" tvg-id="GODTV.uk@SD",GOD TV (576p)
-https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 #EXTINF:-1 group-title="Reino Unido | Religious" tvg-logo="https://i.imgur.com/hW4g2oe.png" tvg-id="GODTVAsia.uk@SD",GOD TV Asia (576p)
 https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8
 #EXTINF:-1 group-title="Reino Unido | Movies" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" tvg-id="GREATmovies.uk@UK",GREAT! movies (1080p)
@@ -2370,8 +2380,6 @@ https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Reino Unido | Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" tvg-id="MoonbugKids.uk@SD",Moonbug Kids (720p)
 https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8
-#EXTINF:-1 group-title="Reino Unido | Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" tvg-id="MoonbugKids.uk@SD",Moonbug Kids (576p)
-https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
 #EXTINF:-1 group-title="Reino Unido | Comedy; Kids" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-id="MrBeanLiveAction.uk@English",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Reino Unido | Religious" tvg-logo="https://i.imgur.com/m3PEldJ.png" tvg-id="MTA3AlArabia.uk@SD",MTA3 Al-Arabia (1080p)
@@ -2481,7 +2489,7 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 group-title="Turquia | Education; Culture" tvg-logo="https://i.imgur.com/CLzP4vL.png" tvg-id="CiftciTV.tr@SD",Çiftçi TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 group-title="Turquia | Business; Series" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-id="CNBCe.tr@SD",CNBC-e
+#EXTINF:-1 group-title="Turquia | Business; Series" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-id="CNBCe.tr@SD",CNBC-e (1080p)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="Turquia | News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png" tvg-id="CNNTurk.tr@SD",CNN Turk (1080p)
 http://85.117.61.84/cnnturk/index.m3u8
@@ -2511,7 +2519,7 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="Turquia | News" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-id="FinansTurkTV.tr@SD",Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 group-title="Turquia | News" tvg-id="FlashHaberTV.tr@SD",Flash Haber TV
+#EXTINF:-1 group-title="Turquia | News" tvg-id="FlashHaberTV.tr@SD",Flash Haber TV (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 group-title="Turquia | Lifestyle" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-id="FortunaTV.tr@HD",Fortuna TV (1080p)
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
@@ -2585,7 +2593,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 group-title="Turquia | Geral" tvg-id="",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 group-title="Turquia | General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-id="NTV.tr@SD",NTV
+#EXTINF:-1 group-title="Turquia | General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-id="NTV.tr@SD",NTV (1080p)
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 group-title="Turquia | Music" tvg-logo="https://i.imgur.com/slwbux7.png" tvg-id="Number1Ask.tr@SD",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
@@ -2656,7 +2664,7 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turquia | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" tvg-id="TRTKurdi.tr@SD",TRT Kurdî (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turquia | Music" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-id="TRTMuzik.tr@SD",TRT Muzik
+#EXTINF:-1 group-title="Turquia | Music" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-id="TRTMuzik.tr@SD",TRT Muzik (1080p)
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turquia | Music" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-id="TRTMuzik.tr@SD",TRT Müzik (720p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
@@ -2674,7 +2682,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 group-title="Turquia | Geral" tvg-logo="https://i.imgur.com/8KO0uxn.png" tvg-id="UrfaNatikTV.tr@SD",Urfa Natik TV (720p)
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 group-title="Turquia | General" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" tvg-id="Van65TV.tr@SD",Van 65 TV
+#EXTINF:-1 group-title="Turquia | General" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" tvg-id="Van65TV.tr@SD",Van 65 TV (720p)
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 group-title="Turquia | Geral" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-id="VavTV.tr@SD",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
@@ -2686,6 +2694,8 @@ http://play.kankanlive.com/live/1711956137852982.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="China | General" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-id="CCTV1.cn@SD",CCTV-1 (720p)
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="China | General" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-id="CCTV1.cn@SD",CCTV-1
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 #EXTINF:-1 group-title="China | Entertainment" tvg-logo="https://i.imgur.com/iFlkIuw.png" tvg-id="CCTV3.cn@SD",CCTV-3 (720p)
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="China | Documentary" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-id="CCTV9.cn@SD",CCTV-9 (576i)
@@ -2737,8 +2747,6 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 group-title="China | News" tvg-logo="https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg" tvg-id="JingmenComprehensiveNewsChannel.cn@SD",Jingmen Comprehensive News Channel
 https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
-#EXTINF:-1 group-title="China | General" tvg-logo="https://www.tvchinese.net/uploads/tv/kangbatv.jpg" tvg-id="KangbaTV.cn@SD",Kangba TV
-http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 group-title="China | News" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" tvg-id="LanzhouComprehensiveNewsChannel.cn@SD",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 group-title="China | Culture" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" tvg-id="LanzhouCultureTourismChannel.cn@SD",Lanzhou Culture & Tourism Channel
@@ -2769,10 +2777,6 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 group-title="China | Geral" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-id="XinjiangTV3.cn@SD",Xinjiang TV 3
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 group-title="China | Geral" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-id="XinjiangTV3.cn@SD",Xinjiang TV 3
-http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 group-title="China | Geral" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-id="XinjiangTV3.cn@SD",Xinjiang TV 3
-http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 group-title="China | Geral" tvg-logo="https://i.imgur.com/JJw1Ndc.png" tvg-id="XinjiangTV8.cn@SD",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 group-title="China | Geral" tvg-logo="https://i.imgur.com/V0v3ST5.png" tvg-id="XizangTVChinese.cn@SD",Xizang TV Chinese
@@ -2869,8 +2873,12 @@ https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png" tvg-id="2x2.ru@SD",2x2 (576p)
 http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png" tvg-id="2x2.ru@SD",2x2 (576p)
+http://185.23.80.23:8080/2x2/index.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/VTJqdoX.png" tvg-id="360.ru@SD",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-id="black.ru@SD",.black (576p)
+http://116.90.120.149:8000/play/a0s4/index.m3u8
 #EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-id="black.ru@HD",.black HD (1080p)
 http://116.90.120.149:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-id="red.ru@SD",.red (576p)
@@ -2913,14 +2921,12 @@ http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/k8JjFDw.png" tvg-id="Channel10.ru@SD",Channel 10 (576i)
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
+#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-id="ChannelOne.ru@SD",Channel One (576p)
+http://45.153.24.78/1TV/index.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-id="ChannelOne.ru@Europa",Channel One Europa (480p)
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-id="ChannelOne.ru@HD",Channel One HD (720p)
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-id="ChannelOne.ru@HD",Channel One HD (720p) [Geo-blocked]
-http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
-#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-id="Cinema.ru@SD",Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Education" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-id="DaVinci.ru@SD",Da Vinci (576p)
 http://116.90.120.149:8000/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="Rússia | Music" tvg-logo="https://i.imgur.com/uMw3kks.png" tvg-id="DanceHits80.ru@SD",DanceHits80
@@ -2967,8 +2973,8 @@ http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/9GvuHQ5.png" tvg-id="IllusionPlus.ru@SD",Illusion+ (576p)
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
-http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (1080p)
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/slLuRel.png" tvg-id="InsaytTV.ru@4K",Insayt TV (2160p)
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" tvg-id="Istoki.ru@SD",Istoki (1080p)
@@ -2979,17 +2985,17 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-id="KinoTV.ru@HD",Kino TV HD (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-id="KinoHit.ru@SD",KinoHit
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-id="KinoHit.ru@SD",KinoHit (1080p)
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/D4q2XUT.png" tvg-id="Kinomix.ru@SD",Kinomix (576p)
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-id="Kinopokaz.ru@SD",Kinopokaz
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-id="Kinopokaz.ru@SD",Kinopokaz (1080p)
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-id="Kinopremyera.ru@SD",Kinopremyera
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-id="Kinopremyera.ru@SD",Kinopremyera (1080p)
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/iao7zLZ.png" tvg-id="Kinoseriya.ru@SD",Kinoseriya (576p)
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-id="Kinosvidanie.ru@SD",Kinosvidanie
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-id="Kinosvidanie.ru@SD",Kinosvidanie (1080p)
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Comedy" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-id="Komedia.ru@SD",Komedia (576p)
 http://176.118.197.101/Komediya/index.m3u8
@@ -3013,15 +3019,15 @@ http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 group-title="Rússia | Culture" tvg-logo="https://i.imgur.com/3P0uvHD.png" tvg-id="Ministerstvoidey.ru@SD",Ministerstvo idey (1080p)
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-id="Mir.ru@SD",Mir (576p)
-http://45.153.24.78/MIR/index.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-id="Mir.ru@HD",Mir HD (1080p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-id="Mir.ru@SD",Mir (1080p)
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rússia | News" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-id="Mir24.ru@SD",Mir 24 (1080p)
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-id="Mir.ru@Kazakhstan",Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Rússia | Series" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-id="MirSeriala.ru@SD",Mir Seriala (576p)
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="Rússia | Sports" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-id="MMATVcom.ru@SD",MMA-TV.com
+#EXTINF:-1 group-title="Rússia | Sports" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-id="MMATVcom.ru@SD",MMA-TV.com (1080p)
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/gXbUMVy.png" tvg-id="Moskva24.ru@SD",Moskva 24 (1080p)
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
@@ -3029,12 +3035,12 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Rússia | Shop" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" tvg-id="Moymir.ru@SD",Moy mir (720p)
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1 group-title="Rússia | Kids" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-id="Multilandia.ru@SD",Multilandia
+#EXTINF:-1 group-title="Rússia | Kids" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-id="Multilandia.ru@SD",Multilandia (1080p)
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rússia | Music" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
-http://31.148.5.241/kanal_20/index.m3u8
-#EXTINF:-1 group-title="Rússia | Music" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-id="MuzykaPervogo.ru@SD",Muzyka Pervogo (576p)
-http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
+#EXTINF:-1 group-title="Rússia | Music" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-id="MuzTV.ru@SD",Muz-TV (1080p)
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rússia | Music" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-id="MuzykaPervogo.ru@SD",Muzyka Pervogo (1080p)
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-id="Nano.ru@HD",Nano HD (1080p)
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/iwTMl8O.png" tvg-id="NashKinopokaz.ru@HD",Nash Kinopokaz HD (576p)
@@ -3049,8 +3055,8 @@ https://stream8.cinerama.uz/1502/playlist.m3u8
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/uv2yxa5.png" tvg-id="NST.ru@SD",NST (576p)
 https://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-id="NTV.ru@HD",NTV HD (1080p)
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-id="NTV.ru@SD",NTV (1080p)
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png" tvg-id="NTVSledstviyeveli.ru@SD",NTV Sledstviye veli (1080p) [Geo-blocked]
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 group-title="Rússia | Series" tvg-logo="https://i.imgur.com/FfKBvz5.png" tvg-id="NTVHit.ru@SD",NTV-Hit (576p)
@@ -3071,8 +3077,6 @@ https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/KlsnfG9.png" tvg-id="Prodvizhenie.ru@SD",Prodvizhenie (1080p)
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
-#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/KlsnfG9.png" tvg-id="Prodvizhenie.ru@SD",Prodvizhenie (576p)
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/uppFhhq.png" tvg-id="Prosveshchenie.ru@SD",Prosveshchenie (576p)
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://radiopotok.ru/f/station/512/1812.png" tvg-id="Radio1.ru@SD",Radio 1 (720p) [Geo-blocked]
@@ -3081,18 +3085,14 @@ https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 group-title="Rússia | Kids" tvg-logo="https://i.imgur.com/B5FA62o.png" tvg-id="RadostMoya.ru@SD",Radost Moya (576p)
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Rússia | Business" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-id="RBKTV.ru@SD",RBK-TV (576p)
-http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-id="RENTV.ru@SD",REN TV (576p)
 http://31.148.5.241/kanal_11/index.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-id="RENTV.ru@SD",REN TV (576p)
 http://185.23.80.23:8080/REN/index.m3u8
-#EXTINF:-1 group-title="Rússia | Classic" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-id="Retro.ru@SD",Retro (576p)
-http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="Rússia | Classic" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-id="Retro.ru@SD",Retro (1080p)
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | News" tvg-logo="https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg" tvg-id="RTBalkan.ru@SD",RT Balkan (1080p)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
-#EXTINF:-1 group-title="Rússia | News" tvg-logo="https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg" tvg-id="RTBalkan.ru@SD",RT Balkan (1080p)
-https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" tvg-id="RTenEspanol.ru@SD",RT en Espanol (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | News" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" tvg-id="RT.ru@HD",RT HD (1080p)
@@ -3109,6 +3109,8 @@ https://shift03.isp.bg/RTVi/index.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/KuL21f9.png" tvg-id="Rus.ru@SD",Rus (576p)
 http://31.148.5.241/kanal_21/index.m3u8
+#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-id="Russia1.ru@SD",Russia-1 (1080p)
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-id="Russia1.ru@Plus1",Russia-1 +1 (1080p)
 https://stream.smotrim.ru/hls2/russia1_plus1/playlist_5.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-id="Russia1.ru@Plus2",Russia-1 +2 (1080p)
@@ -3127,10 +3129,10 @@ https://stream.smotrim.ru/hls2/russia1_plus7/playlist_5.m3u8
 https://stream.smotrim.ru/hls2/russia1_plus8/playlist_5.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-id="Russia1.ru@Plus9",Russia-1 +9 (1080p)
 https://stream.smotrim.ru/hls2/russia1_plus9/playlist_5.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-id="Russia1.ru@HD",Russia-1 HD (1080p)
-http://176.118.197.101/RossiyaHD/index.m3u8
+#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-id="Russia1.ru@SD",Russia-1 SD (576p)
+http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 group-title="Rússia | News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-id="Russia24.ru@SD",Russia-24 (1080p)
-https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-id="RussiaK.ru@Plus2",Russia-K +2 (1080p)
 https://stream.smotrim.ru/hls2/russia_k_dubl1/playlist_5.m3u8
 #EXTINF:-1 group-title="Rússia | Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-id="RussiaK.ru@Plus4",Russia-K +4 (1080p)
@@ -3195,23 +3197,19 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 group-title="Rússia | Family" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-id="STS.ru@SD",STS (576p)
 http://31.148.5.241/kanal_13/index.m3u8
-#EXTINF:-1 group-title="Rússia | Family" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-id="STS.ru@SD",STS (576p)
-http://176.118.197.101/CTC/index.m3u8
-#EXTINF:-1 group-title="Rússia | Family" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-id="STS.ru@SD",STS (576p)
-http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.imgur.com/nsk8PpB.png" tvg-id="Subbota.ru@SD",Subbota! (1080p)
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 #EXTINF:-1 group-title="Rússia | Kids" tvg-logo="https://i.imgur.com/c0zZUR1.png" tvg-id="SuperGeroi.ru@SD",SuperGeroi (576p)
 http://109.94.1.3:8080/132/index.m3u8
-#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-id="T24.ru@SD",T24 (576p)
-http://178.134.1.158:8081/t24/index.m3u8
+#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-id="T24.ru@SD",T24 (1080p)
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Cooking" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-id="Telecafe.ru@SD",Telecafe (576p)
 http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/071JRrb.png" tvg-id="TeleDom.ru@SD",TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.ibb.co/HDmdRFR1/N-Baltic-2025.webp" tvg-id="TNT.ru@SD",TNT (576p)
 http://31.148.5.241/kanal_19/index.m3u8
-#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-id="TNVPlanet.ru@SD",TNV-Planet
+#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-id="TNVPlanet.ru@SD",TNV-Planet (1080p)
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/58u9TQT.png" tvg-id="TNVTatarstan.ru@SD",TNV-Tatarstan (720p)
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
@@ -3233,14 +3231,10 @@ http://213.91.179.28:8000/play/a0bx
 http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-id="TVCentr.ru@SD",TV Centr (576p)
 http://31.148.5.241/kanal_10/index.m3u8
-#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-id="TVCentr.ru@SD",TV Centr (576p)
-https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/sbuSefI.png" tvg-id="TVPRO.ru@SD",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-id="TV3.ru@SD",TV-3 (576p)
 http://31.148.5.241/kanal_15/index.m3u8
-#EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-id="TV3.ru@SD",TV-3 (576p)
-http://176.118.197.101/TB3/index.m3u8
 #EXTINF:-1 group-title="Rússia | Entertainment" tvg-logo="https://i.imgur.com/KDZvt0Q.png" tvg-id="U.ru@SD",U (720p)
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/r3u0mxr.png" tvg-id="UniverTV.ru@SD",Univer TV (1080p)
@@ -3253,20 +3247,30 @@ https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
 http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
+http://116.90.120.149:8000/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-id="vijuHistory.ru@SD",viju History (576p)
 http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-id="vijuHistory.ru@SD",viju History (576p)
+http://116.90.120.149:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-id="vijuNature.ru@SD",viju Nature (576p)
 http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-id="vijuNature.ru@SD",viju Nature (576p)
+http://116.90.120.149:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/ZMsyjSr.png" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/ZMsyjSr.png" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
+http://116.90.120.149:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
 http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
+http://116.90.120.149:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" tvg-id="vijuTV1000novella.ru@HD",viju TV1000 novella HD (1080p)
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
 #EXTINF:-1 group-title="Rússia | Series" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" tvg-id="vijuTV1000romantica.ru@HD",viju TV1000 romantica HD (1080p)
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
-#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe (576p)
-http://46.53.200.153:7777/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe (1080p)
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-id="vijuPlusComedy.ru@HD",viju+ Comedy HD (1080p)
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 #EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/oIQNddV.png" tvg-id="vijuPlusMegahit.ru@HD",viju+ Megahit HD (1080p)
@@ -3275,8 +3279,10 @@ http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 #EXTINF:-1 group-title="Rússia | Series" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-id="vijuPlusSerial.ru@HD",viju+ Serial HD (1080p)
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
-#EXTINF:-1 group-title="Rússia | Sports" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-id="vijuPlusSport.ru@HD",viju+ Sport HD (1080p)
-http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Rússia | Sports" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-id="vijuPlusSport.ru@SD",viju+ Sport (1080p)
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rússia | Sports" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-id="vijuPlusSport.ru@SD",viju+ Sport (576p)
+http://116.90.120.149:8000/play/a0au/index.m3u8
 #EXTINF:-1 group-title="Rússia | Shop" tvg-logo="https://i.imgur.com/lzQsVfn.png" tvg-id="VitrinaTV.ru@SD",Vitrina TV (720p)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Music" tvg-logo="https://i.imgur.com/OFhQQCD.png" tvg-id="VIVARussia.ru@SD",VIVA Russia (1080p)
@@ -3295,10 +3301,8 @@ https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://tv-stream.ru/uploads/Zoopark_300h300_zelenyj_vert_0f85755619.svg" tvg-id="Zoopark.ru@SD",Zoopark (576i)
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-id="Zvezda.ru@SD",Zvezda (576p)
-http://31.148.5.241/kanal_17/index.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-id="Zvezda.ru@HD",Zvezda HD (1080p) [Not 24/7]
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-id="Zvezda.ru@SD",Zvezda (1080p)
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/bcw0s4V.png" tvg-id="AISTTV.ru@SD",Аист ТВ (1080p)
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/CTFVEAb.png" tvg-id="Aris24.ru@SD",Арис 24 (720p) [Not 24/7]
@@ -3311,7 +3315,7 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/vruuPKF.png" tvg-id="BigAsia.ru@SD",Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/IDotHmQ.png" tvg-id="BST.ru@SD",БСТ 24 (Братск)
+#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/IDotHmQ.png" tvg-id="BST.ru@SD",БСТ 24 (Братск) (1080p)
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/zKH1b5k.png" tvg-id="Vetta24.ru@SD",Ветта 24 (Пермь) (576p) [Not 24/7]
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
@@ -3327,12 +3331,14 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/7tNDKHe.png" tvg-id="Channel16.ru@SD",К16 (Саров) (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 group-title="Rússia | Movies" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-id="KinoTV.ru@SD",КИНОТВ (576p)
+https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-id="RedLine.ru@SD",Красная линия (480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="Rússia | News" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-id="Mir24.ru@SD",Мир 24 (1080p)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-id="MirBelogorya.ru@SD",Мир Белагорья (720p) [Geo-blocked]
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-id="MirBelogorya.ru@SD",Мир Белогорья (720p) [Geo-blocked]
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/pdCAUrP.png" tvg-id="MTVVolgograd.ru@SD",МТВ (Волгоград) (720p) [Not 24/7]
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Music; Religious" tvg-logo="https://i.imgur.com/Puk1Bhx.png" tvg-id="MuzSoyuz.ru@SD",Муз союз (576p)
@@ -3341,7 +3347,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-id="Nano.ru@HD",Нано ТВ HD (576p)
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-id="Nauka.ru@SD",Наука
+#EXTINF:-1 group-title="Rússia | Documentary" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-id="Nauka.ru@SD",Наука (576p)
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/LwXNUhf.png" tvg-id="NVKSakha.ru@SD",НВК Саха (1080p) [Not 24/7]
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
@@ -3351,7 +3357,7 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | General" tvg-logo="https://i.imgur.com/skkDR7q.png" tvg-id="NTS.ru@SD",НТС (Севастополь) (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-id="OSN.ru@SD",ОСН
+#EXTINF:-1 group-title="Rússia | General" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-id="OSN.ru@SD",ОСН (1080p)
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | Lifestyle" tvg-logo="https://i.imgur.com/7orZOJA.png" tvg-id="OtkritiymirZdorove.ru@SD",Открытый мир. Здоровье (576p)
 https://v4.proofix.ru/0mir/index.m3u8
@@ -3359,11 +3365,13 @@ https://v4.proofix.ru/0mir/index.m3u8
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 group-title="Rússia | News" tvg-logo="https://i.imgur.com/z2mxf3E.png" tvg-id="GovoritMoskva.ru@SD",Радио Говорит Москва (Веб-камера) (720p)
 https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 group-title="Rússia | Business" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-id="RBKTV.ru@SD",РБК-ТВ (1080p)
+http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/chNBF5t.png" tvg-id="S1.ru@SD",С1 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" tvg-id="SamaraGIS.ru@SD",Самара ГИС (1080p) [Not 24/7]
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-id="Sever.ru@SD",Север (Нарьян-Мар)
+#EXTINF:-1 group-title="Rússia | Geral" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-id="Sever.ru@SD",Север (Нарьян-Мар) (1080p)
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 group-title="Rússia | General; News" tvg-logo="https://i.imgur.com/iwWxkl6.png" tvg-id="Sochi24.ru@SD",Сочи 24 HD (720p)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
@@ -3462,14 +3470,10 @@ https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 group-title="Espanha | Geral" tvg-logo="https://i.imgur.com/pwRVbCz.png" tvg-id="Canal56.es@SD",Canal 56 (576p) [Not 24/7]
 https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 group-title="Espanha | Geral" tvg-logo="https://i.imgur.com/9RoBASf.png" tvg-id="Canal2000.es@SD",Canal 2000 La Solana (720p) [Not 24/7]
-http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 group-title="Espanha | Geral" tvg-logo="https://i.imgur.com/uWhVKL3.png" tvg-id="CanalDiocesano.es@SD",Canal Diocesano (576p)
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 #EXTINF:-1 group-title="Espanha | Geral" tvg-logo="https://i.imgur.com/0WrKIxm.png" tvg-id="CanalDonana.es@SD",Canal Doñana (720p) [Not 24/7]
 https://secure5.todostreaming.es/live/division-alm.m3u8
-#EXTINF:-1 group-title="Espanha | General" tvg-logo="https://i.imgur.com/H3JzQ1G.jpg" tvg-id="CanalLuzTelevision.es@SD",Canal Luz Television (720p)
-https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 group-title="Espanha | General" tvg-logo="https://i.imgur.com/QSUOxtM.png" tvg-id="CanalMalagaRTV.es@SD",Canal Málaga RTV (720p) [Not 24/7]
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Espanha | Legislative" tvg-logo="https://i.imgur.com/BUO0wH6.png" tvg-id="CanalParlamento.es@SD",Canal Parlamento (360p) [Not 24/7]
@@ -3553,6 +3557,8 @@ https://interalmeria.tv/directo/live.m3u8
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 group-title="Espanha | General" tvg-logo="https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png" tvg-id="La8Mediterraneo.es@SD",La 8 Mediterraneo (1080p)
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+#EXTINF:-1 group-title="Espanha | Geral" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/La_S%C3%A9ptima_2026_II.svg/revision/latest?cb=20261106050649" tvg-id="LaSeptima.es@HD",La Septima (1080p)
+https://cache2.zapitv.com/live/eds_c2/la_septima/dash_live_ez/la_septima.mpd
 #EXTINF:-1 group-title="Espanha | Religious" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" tvg-id="LogosTV.es@SD",Logos TV (1080p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 group-title="Espanha | Religious; Kids" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" tvg-id="LogosTVKids.es@SD",Logos TV Kids (720p) [Not 24/7]
@@ -3567,8 +3573,6 @@ https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 group-title="Espanha | Business" tvg-logo="https://i.imgur.com/yNRipxu.png" tvg-id="NegociosTV.es@SD",Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 group-title="Espanha | Kids" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-id="Nickelodeon.es@SD",Nickelodeon
-http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
 #EXTINF:-1 group-title="Espanha | Geral" tvg-logo="https://i.imgur.com/C5SYw7B.png" tvg-id="Nortevision.es@SD",NORTEvisión (1080p)
 http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 group-title="Espanha | General" tvg-logo="https://i.imgur.com/kUhFkVF.png" tvg-id="OndaAlgeciras.es@SD",Onda Algeciras TV (576p)
@@ -3593,6 +3597,8 @@ https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 group-title="Espanha | Sports" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-id="RealMadridTV.es@SD",Real Madrid TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://90.163.85.113:8093/stream/26/index.m3u8
+#EXTINF:-1 group-title="Espanha | Sports" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-id="RealMadridTV.es@SD",Real Madrid TV (726p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Espanha | Sports" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-id="RealMadridTVEnglish.es@SD",Real Madrid TV English
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 group-title="Espanha | General" tvg-logo="https://i.imgur.com/mPvSubP.png" tvg-id="RiberaTV.es@SD",Ribera TV (576p)
