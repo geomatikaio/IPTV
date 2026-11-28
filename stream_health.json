@@ -8215,66 +8215,6 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://138.121.15.230:9002/NAT-GEO/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.16.50/ARTE_1/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/AXNHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/RITHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/FUTURAHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/SESCTVHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TVBRASILHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TVCAMARAHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.49.66:8083/TVSENADOHD/index.m3u8": {
-    "failures": 1
-  },
-  "http://170.83.16.50/TV_SENADO/index.m3u8": {
-    "failures": 1
-  },
-  "http://176.118.197.101/1HD/index.m3u8": {
-    "failures": 1
-  },
   "http://190.61.47.54:8000/play/a004/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
@@ -8282,9 +8222,6 @@
   "http://190.61.47.54:8000/play/a005/index.m3u8": {
     "status": "removed",
     "reason": "http_401_403"
-  },
-  "http://186.219.52.187/tv_brasil/index.m3u8": {
-    "failures": 1
   },
   "http://190.61.47.54:8000/play/a028/index.m3u8": {
     "status": "removed",
@@ -8302,9 +8239,6 @@
     "status": "removed",
     "reason": "http_401_403"
   },
-  "http://186.219.52.187/tv_evangelizar/index.m3u8": {
-    "failures": 1
-  },
   "http://193.123.61.120:3000/kanal/bloomberght": {
     "status": "removed",
     "reason": "three_consecutive_failures"
@@ -8312,9 +8246,6 @@
   "http://38.134.250.110:8000/play/a00n/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://31.148.5.241/kanal_17/index.m3u8": {
-    "failures": 1
   },
   "http://110.153.180.106:55555/out_3/index.m3u8": {
     "status": "removed",
@@ -8324,189 +8255,9 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "http://45.173.231.22:8000/play/a01h/index.m3u8": {
-    "failures": 1
-  },
-  "http://45.134.141.161:2200/ARG/TNT/index.m3u8": {
-    "failures": 2
-  },
-  "http://45.173.231.22:8000/play/a01i/index.m3u8": {
-    "failures": 1
-  },
-  "http://45.173.231.22:8000/play/a06n/index.m3u8": {
-    "failures": 1
-  },
-  "http://45.173.231.22:8000/play/a05z/index.m3u8": {
-    "failures": 1
-  },
-  "http://45.173.231.22:8000/play/a097/index.m3u8": {
-    "failures": 1
-  },
-  "http://45.185.15.154:9080/stream/28/index.m3u8": {
-    "failures": 1
-  },
-  "http://45.185.15.154:9080/stream/29/index.m3u8": {
-    "failures": 1
-  },
-  "http://45.185.15.154:9080/stream/63/index.m3u8": {
-    "failures": 1
-  },
-  "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/TV-21M/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/TV_1000/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/a00u/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/a01g/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/a01h/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/a01i/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/a01j/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/a01k/index.m3u8": {
-    "failures": 2
-  },
-  "http://46.53.200.153:7777/play/test_krask1/index.m3u8": {
-    "failures": 2
-  },
-  "http://74.91.26.218:82/live/cctv3hd.m3u8": {
-    "failures": 1
-  },
-  "http://46.53.200.153:7777/play/a01l/index.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_bober/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_dom_kino/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_karusel/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_poehali/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_vremya/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8": {
-    "failures": 2
-  },
-  "http://93.170.254.17/Kinomiks/index.m3u8": {
-    "failures": 1
-  },
-  "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8": {
-    "failures": 1
-  },
-  "http://s7.merlive.am/Amedia2/index.m3u8": {
-    "failures": 1
-  },
-  "http://s7.merlive.am/21TV/index.m3u8": {
-    "failures": 1
-  },
-  "http://catchup.videoline.ru/shanson/index.m3u8": {
-    "failures": 1
-  },
-  "http://antm.dynu.net:14285/rtp/232.84.3.200:11122": {
-    "failures": 1
-  },
-  "http://s1.tv-nano.com/Nano_rec/index.m3u8": {
-    "failures": 1
-  },
-  "http://s7.merlive.am/Kinosvidanie/index.m3u8": {
-    "failures": 1
-  },
-  "http://s7.merlive.am/Kinomix/index.m3u8": {
-    "failures": 1
-  },
-  "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8": {
-    "failures": 2
-  },
-  "http://s7.merlive.am/stslove/index.m3u8": {
-    "failures": 1
-  },
-  "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8": {
-    "failures": 1
-  },
-  "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8": {
-    "failures": 1
-  },
   "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
-  },
-  "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8": {
-    "failures": 2
-  },
-  "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8": {
-    "failures": 1
-  },
-  "http://tv.tuva.ru/machtv/index.m3u8": {
-    "failures": 1
   },
   "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8": {
     "status": "removed",
@@ -8516,214 +8267,549 @@
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9": {
-    "failures": 1
-  },
-  "https://cdn.pishow.tv/ott/live/455/master.m3u8": {
-    "failures": 2
-  },
-  "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8": {
-    "failures": 1
-  },
   "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web": {
     "status": "removed",
     "reason": "http_401_403"
-  },
-  "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8": {
-    "failures": 2
-  },
-  "https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8": {
-    "failures": 2
-  },
-  "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://iptv.tapesh.tv/tapesh/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://k20.usastreams.com:8081/tenerifeplus/index.m3u8": {
-    "failures": 1
   },
   "https://freem3u.xyz/api/live/play.m3u8?vid=106": {
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://live.cmr24.fm/TVI/HD/chunks.m3u8": {
-    "failures": 1
-  },
-  "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8": {
-    "failures": 1
-  },
-  "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8": {
-    "failures": 1
-  },
-  "https://maystreaming.cloudecast.com/redemeio/index.m3u8": {
-    "failures": 1
-  },
-  "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8": {
-    "failures": 1
-  },
-  "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8": {
-    "failures": 1
-  },
-  "https://ntd02.akamaized.net/HD-NY/index.m3u8": {
-    "failures": 1
-  },
-  "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8": {
-    "failures": 1
-  },
-  "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8": {
-    "failures": 2
-  },
-  "https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8": {
-    "failures": 1
-  },
-  "https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8": {
-    "failures": 1
-  },
-  "https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://streaming.onnethn.com/AMC/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://streaming.astrakhan.ru/telplushd/playlist.m3u8": {
-    "failures": 1
-  },
-  "https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8": {
-    "failures": 1
-  },
-  "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8": {
-    "failures": 1
-  },
-  "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8": {
-    "failures": 1
-  },
-  "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8": {
-    "failures": 1
-  },
-  "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8": {
-    "failures": 1
-  },
-  "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8": {
-    "failures": 1
-  },
-  "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8": {
-    "failures": 2
-  },
-  "https://tv-trtworld.medya.trt.com.tr/master.m3u8": {
-    "failures": 1
-  },
-  "https://tvsen6.aynaott.com/beinsports/index.m3u8": {
-    "failures": 2
-  },
-  "https://tvsen6.aynaott.com/cp24/index.m3u8": {
-    "failures": 2
-  },
-  "https://tvsen6.aynaott.com/foxbusiness/index.m3u8": {
-    "failures": 2
-  },
-  "https://tvsen6.aynaott.com/foxnews/index.m3u8": {
-    "failures": 2
-  },
-  "https://tvsen6.aynaott.com/golfchannel/index.m3u8": {
-    "failures": 2
-  },
-  "https://tvsen6.aynaott.com/nfl/index.m3u8": {
-    "failures": 2
-  },
-  "https://tvsen6.aynaott.com/msnbc/index.m3u8": {
-    "failures": 2
-  },
-  "https://tjktv-live.tjk.org/tjktv.m3u8": {
-    "failures": 2
-  },
-  "https://tvsen6.aynaott.com/ytv/index.m3u8": {
-    "failures": 2
-  },
-  "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec": {
-    "failures": 1
-  },
-  "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f": {
-    "failures": 1
-  },
-  "rtmp://124.167.237.85:9935/live/xwzh2_sb": {
-    "failures": 1
-  },
-  "https://vod.tuva.ru/friday/index.m3u8": {
-    "failures": 2
-  },
-  "https://vod.tuva.ru/nauka2/index.m3u8": {
-    "failures": 2
-  },
   "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8": {
     "status": "removed",
     "reason": "three_consecutive_failures"
   },
-  "https://vod.tuva.ru/rusroman/index.m3u8": {
+  "http://138.121.15.230:9002/HISTORY-2/index.m3u8": {
     "failures": 1
   },
-  "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8": {
+  "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8": {
     "failures": 1
   },
-  "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8": {
+  "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8": {
     "failures": 1
   },
-  "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8": {
+  "http://139.211.217.79:9004/hls/75/index.m3u8": {
     "failures": 1
   },
-  "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8": {
+  "http://170.83.49.66:8083/AXNHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.16.50/AGRO_MAIS/index.m3u8": {
     "failures": 1
   },
-  "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8": {
+  "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/FUTURAHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.16.50/FISH_TV/index.m3u8": {
     "failures": 1
   },
-  "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8": {
+  "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/RITHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/SESCTVHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TVBRASILHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TVCAMARAHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://170.83.49.66:8083/TVSENADOHD/index.m3u8": {
+    "failures": 2
+  },
+  "http://176.118.197.101/KinoTvHD/playlist.m3u8": {
     "failures": 1
   },
-  "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8": {
+  "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8": {
+    "failures": 1
+  },
+  "http://176.118.197.101/KHL/index.m3u8": {
+    "failures": 1
+  },
+  "http://178.134.1.158:8081/BRIDGE/index.m3u8": {
+    "failures": 1
+  },
+  "http://178.134.1.158:8081/doktor/index.m3u8": {
+    "failures": 1
+  },
+  "http://185.227.34.179:8080/axn-black/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/cancao_nova/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/rede_tv/index.m3u8": {
+    "failures": 1
+  },
+  "http://186.219.52.187/tv_camara/index.m3u8": {
+    "failures": 1
+  },
+  "http://192.99.186.30/stream/192/index.m3u8": {
+    "failures": 1
+  },
+  "http://200.115.120.1:8000/play/ca020/index.m3u8": {
+    "failures": 1
+  },
+  "http://200.115.120.1:8000/play/ca030/index.m3u8": {
+    "failures": 1
+  },
+  "http://200.115.120.1:8000/play/ca048/index.m3u8": {
+    "failures": 1
+  },
+  "http://200.115.120.1:8000/play/ca110/index.m3u8": {
+    "failures": 1
+  },
+  "http://200.115.120.1:8000/play/ca128/index.m3u8": {
+    "failures": 1
+  },
+  "http://183.64.181.25:40023/rongchang01.m3u8": {
+    "failures": 1
+  },
+  "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8": {
+    "failures": 1
+  },
+  "http://31.148.5.241/kanal_13/index.m3u8": {
+    "failures": 1
+  },
+  "http://31.148.5.241/kanal_9/index.m3u8": {
+    "failures": 1
+  },
+  "http://31.148.5.241/kanal_21/index.m3u8": {
+    "failures": 1
+  },
+  "http://45.173.231.22:8000/play/a01h/index.m3u8": {
+    "failures": 2
+  },
+  "http://45.173.231.22:8000/play/a01i/index.m3u8": {
+    "failures": 2
+  },
+  "http://45.173.231.22:8000/play/a05z/index.m3u8": {
+    "failures": 2
+  },
+  "http://45.173.231.22:8000/play/a06n/index.m3u8": {
+    "failures": 2
+  },
+  "http://45.173.231.22:8000/play/a097/index.m3u8": {
+    "failures": 2
+  },
+  "http://31.148.5.241/kanal_6/index.m3u8": {
+    "failures": 1
+  },
+  "http://45.186.240.164:9000/stream/54/index.m3u8": {
+    "failures": 1
+  },
+  "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/TV-21M/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/TV_1000/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/a00u/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/a01g/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/a01h/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/a01i/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/a01j/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/a01k/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/a01l/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://46.53.200.153:7777/play/test_krask1/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://74.91.26.218:82/live/cctv3hd.m3u8": {
+    "failures": 2
+  },
+  "http://88.212.15.50/live/test_bober/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_dom_kino/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_karusel/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_poehali/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://88.212.15.50/live/test_vremya/playlist.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "http://193.33.39.108:9007/play/a00l": {
+    "failures": 1
+  },
+  "http://193.33.39.108:9019/play/a00t": {
+    "failures": 1
+  },
+  "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/Amedia2/index.m3u8": {
+    "failures": 2
+  },
+  "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/NTVMir/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/Multilandia/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/RUTV/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/SHOTTV/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/kvntv/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/muztv/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/oxotairibalka/index.m3u8": {
+    "failures": 1
+  },
+  "http://s7.merlive.am/sovershennosekretno/index.m3u8": {
+    "failures": 1
+  },
+  "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8": {
+    "failures": 1
+  },
+  "http://tshift-1.telecoma.tv/enisei/index.m3u8": {
+    "failures": 1
+  },
+  "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8": {
+    "failures": 2
+  },
+  "https://canli.tgrthaber.com/tgrt.m3u8": {
+    "failures": 1
+  },
+  "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8": {
+    "failures": 1
+  },
+  "https://cdn-1.netplaygo.com.br/CARTOON_NETWORK/tracks-v1a1/mono.m3u8": {
+    "failures": 1
+  },
+  "https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8": {
+    "failures": 1
+  },
+  "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9": {
+    "failures": 2
+  },
+  "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NTIiLCJjaGFpbiI6InIyIiwidHMiOjE3OTQ4Njc4ODI0MDR9": {
+    "failures": 1
+  },
+  "https://cloudvideo.servers10.com:8081/8024/index.m3u8": {
+    "failures": 1
+  },
+  "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8": {
+    "failures": 1
+  },
+  "https://hls.botflix.tv/radioo/index.m3u8": {
+    "failures": 1
+  },
+  "https://freem3u.xyz/api/live/play.m3u8?vid=111": {
+    "failures": 1
+  },
+  "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8": {
+    "failures": 2
+  },
+  "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8": {
+    "failures": 2
+  },
+  "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8": {
+    "failures": 1
+  },
+  "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8": {
+    "failures": 1
+  },
+  "https://live.cmr24.fm/TVI/HD/chunks.m3u8": {
+    "failures": 2
+  },
+  "https://live.tcm10.com.br/tcm10hd/stream.m3u8": {
+    "failures": 1
+  },
+  "https://maystreaming.cloudecast.com/redemeio/index.m3u8": {
+    "failures": 2
+  },
+  "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8": {
+    "failures": 1
+  },
+  "https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8": {
+    "failures": 1
+  },
+  "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8": {
+    "failures": 1
+  },
+  "https://ntd02.akamaized.net/HD-LA/index.m3u8": {
+    "failures": 1
+  },
+  "https://ntd02.akamaized.net/HD-NY/index.m3u8": {
+    "failures": 2
+  },
+  "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8": {
+    "failures": 2
+  },
+  "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8": {
+    "failures": 1
+  },
+  "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8": {
+    "failures": 1
+  },
+  "https://streaming.onnethn.com/Bandamax/index.m3u8": {
+    "failures": 1
+  },
+  "https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8": {
+    "failures": 2
+  },
+  "https://toy.vcdn.fyi/placid/index.m3u8": {
+    "failures": 1
+  },
+  "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8": {
+    "failures": 1
+  },
+  "https://tvsen6.aynaott.com/beinsports/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/epi/usergendxt1v8klq6rnd.m3u8": {
+    "failures": 1
+  },
+  "https://tvsen6.aynaott.com/cp24/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvsen6.aynaott.com/foxbusiness/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvsen6.aynaott.com/foxnews/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvsen6.aynaott.com/golfchannel/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8": {
+    "failures": 1
+  },
+  "https://tvsen6.aynaott.com/msnbc/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/axwhite/usergenx23rnd.m3u8": {
+    "failures": 1
+  },
+  "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/bibi1/usergendxn09l2s6cek.m3u8": {
+    "failures": 1
+  },
+  "https://tvsen6.aynaott.com/nfl/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8": {
+    "failures": 1
+  },
+  "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/amece/usergenrx3oq1kr.m3u8": {
+    "failures": 1
+  },
+  "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/axyblack/usergenrxi6s93hs2.m3u8": {
+    "failures": 1
+  },
+  "https://tvsen6.aynaott.com/ytv/index.m3u8": {
+    "status": "removed",
+    "reason": "three_consecutive_failures"
+  },
+  "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/ert/usergenrx8ofzq1kr.m3u8": {
+    "failures": 1
+  },
+  "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8": {
+    "failures": 1
+  },
+  "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8": {
+    "failures": 1
+  },
+  "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8": {
+    "failures": 1
+  },
+  "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8": {
+    "failures": 1
+  },
+  "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f": {
+    "failures": 2
+  },
+  "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec": {
+    "failures": 2
+  },
+  "rtmp://124.167.237.85:9935/live/xwzh2_sb": {
+    "failures": 2
+  },
+  "https://vod.tuva.ru/nst/index.m3u8": {
+    "failures": 1
+  },
+  "https://xykt-fix.github.io/Y77.m3u8": {
     "failures": 1
   }
 }
